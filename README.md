@@ -9,6 +9,7 @@
 
 <p align="center">
   <a href="https://rizwanahmad8311.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+  <a href="https://www.linkedin.com/in/rizwanahmad8311/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://twitter.com/rizwanahmad8311"><img src="https://img.shields.io/badge/@rizwanahmad8311-0f172a?style=for-the-badge&logo=x&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Pakistan-0f172a?style=for-the-badge&logo=googlemaps&logoColor=22c55e" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rizwanahmad8311.rizwanahmad8311&left_color=0f172a&right_color=38bdf8&left_text=Profile%20views" height="28" />
