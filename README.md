@@ -48,12 +48,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanahmad8311&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=38bdf8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmad8311&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
+  <img width="100%" src="https://raw.githubusercontent.com/rizwanahmad8311/rizwanahmad8311/metrics/metrics-overview.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rizwanahmad8311&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 </p>
+<p align="center"><sub>Stats include private &amp; organization work · refreshed daily</sub></p>
 
 ### 🐍 Contribution snake
 
