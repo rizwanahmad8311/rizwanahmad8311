@@ -26,9 +26,6 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=rizwanahmad8311&theme=github-dark-blue&hide_border=true" />
 </p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rizwanahmad8311&theme=onedark&no-frame=true&margin-w=8&row=1" />
-</p>
 
 ### 🐍 Contribution snake
 <picture>
