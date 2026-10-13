@@ -1,34 +1,65 @@
-<h1 align="center">Hi, I'm Rizwan Ahmad 👋</h1>
-<p align="center">Full-stack engineer at <b>Mercury Sols</b> · Pakistan 🇵🇰</p>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizwan%20Ahmad&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Engineer%20%40%20Adaptive%20Nodes&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <p align="center">
-  <a href="https://rizwanahmad8311.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://twitter.com/rizwanahmad8311"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rizwanahmad8311&style=for-the-badge&color=0e75b6" />
+  <a href="https://github.com/rizwanahmad8311">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Django+%7C+React+%7C+React+Native+%7C+SwiftUI;Building+healthcare+SaaS+at+scale;Real-time+chat%2C+automation+%26+integrations;Shipping+web%2C+mobile+%26+macOS+apps" alt="Typing SVG" />
+  </a>
 </p>
 
-### 🚀 About me
-- 🏥 Building healthcare SaaS: multi-tenant Django backends, real-time chat, portal automation and EMR integrations
-- 📱 Shipping web (React), mobile (React Native, Flutter) and native macOS (SwiftUI) clients
-- ☁️ Running it on Docker, AWS (ECS, CloudWatch), Postgres, Redis and Celery
-- 🧪 Side projects: [NotiWeave](https://github.com/rizwanahmad8311/notiweave-extension), [RouteBook](https://github.com/rizwanahmad8311/routebook), [self-hosted-mail](https://github.com/rizwanahmad8311/self-hosted-mail)
+<p align="center">
+  <a href="https://rizwanahmad8311.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" /></a>
+  <a href="https://twitter.com/rizwanahmad8311"><img src="https://img.shields.io/badge/@rizwanahmad8311-0f172a?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Pakistan-0f172a?style=for-the-badge&logo=googlemaps&logoColor=22c55e" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizwanahmad8311.rizwanahmad8311&left_color=0f172a&right_color=38bdf8&left_text=Profile%20views" height="28" />
+</p>
+
+---
+
+### 🧑‍💻 About me
+
+- 🏢 Full-stack engineer at **Adaptive Nodes**
+- 🏥 Building **healthcare SaaS**: multi-tenant Django backends, real-time chat, portal automation and EMR integrations
+- 📱 Shipping clients on **web** (React), **mobile** (React Native, Flutter) and **macOS** (SwiftUI)
+- ☁️ Running it all on **Docker, AWS, Postgres, Redis & Celery**
+- 🤖 Working with **LLMs & RAG** in production pipelines
+- 🌱 Side projects: **NotiWeave** (phone notifications on your PC over BLE), **RouteBook** (offline distribution book-keeping), **self-hosted mail**
+- 💬 Ask me about **Django, real-time systems, scraping & automation**
 
 ### 🛠️ Tech stack
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,ts,js,react,nodejs,flutter,swift,postgres,redis,docker,aws,nginx,selenium,git,linux&perline=8" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,react,nodejs,nextjs&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,swift,postgres,redis,docker,aws,nginx,selenium&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,figma,tailwind,vercel&theme=dark" />
+</p>
+
+### 📌 Featured projects
+
+<p align="center">
+  <a href="https://github.com/rizwanahmad8311/ragbase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanahmad8311&repo=ragbase&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/rizwanahmad8311/supportlens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanahmad8311&repo=supportlens&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/rizwanahmad8311/erp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanahmad8311&repo=erp&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+  <a href="https://github.com/rizwanahmad8311/subtitle-sync"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rizwanahmad8311&repo=subtitle-sync&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
 </p>
 
 ### 📊 GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rizwanahmad8311&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmad8311&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rizwanahmad8311&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=38bdf8&title_color=38bdf8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanahmad8311&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8" />
 </p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=rizwanahmad8311&theme=github-dark-blue&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rizwanahmad8311&theme=github-dark-blue&hide_border=true&background=0d1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8" />
 </p>
 
 ### 🐍 Contribution snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwanahmad8311/rizwanahmad8311/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/rizwanahmad8311/rizwanahmad8311/output/github-snake.svg" />
-</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizwanahmad8311/rizwanahmad8311/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/rizwanahmad8311/rizwanahmad8311/output/github-snake.svg" />
+  </picture>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
